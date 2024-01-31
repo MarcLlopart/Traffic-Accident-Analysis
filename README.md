@@ -3,7 +3,7 @@ OCEAN Protocol Data Challenge 2024 #1
 
 This repo attends to the participation to Desights AI and OCEAN Protocol Data Challenge named: Road to Safety: Traffic Accident Analysis, which is the firt data challenge of 2024.
 
-In the *EDA.ipynb* file there are the questions of the challenge that have been addressed and the plots that provide informations to answert those questions.
+In the \textbf{EDA.ipynb} file there are the questions of the challenge that have been addressed and the plots that provide informations to answert those questions.
 
 The final report has been summed up into the *Road_to_Safety__Traffic_Accident_Analysis_Report.pdf* file providing a clear structure of what are the intakes after analyzing the provided dataset.
 
